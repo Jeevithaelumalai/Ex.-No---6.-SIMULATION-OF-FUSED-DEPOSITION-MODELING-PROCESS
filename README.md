@@ -22,8 +22,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:JEEVITHA.E
+### Register Number:212222230054
+![image](https://github.com/Jeevithaelumalai/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118708245/0d194e21-efb4-4ce2-a39e-e881d361d69f)
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
